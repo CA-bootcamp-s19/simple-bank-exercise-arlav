@@ -6,7 +6,7 @@
     https://solidity.readthedocs.io/en/v0.6.12/060-breaking-changes.html
 */
 
-pragma solidity ^0.6.12;
+pragma solidity ^0.6.2;
 
 contract SimpleBank {
 
